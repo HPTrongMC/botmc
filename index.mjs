@@ -8,8 +8,8 @@ import fs from "fs";
 let botSetting = {
     username: 'HPTMC',
     host: 'eu1.mc.sneaky.ovh',
-    version: '1.18.2',
-    port: 30082
+    port: 30082,
+    version: '1.18.2'
 };
 
 let options = {

@@ -1,1 +1,1 @@
-A simple hello world express server. 
+A Bot for minecraft server. 
